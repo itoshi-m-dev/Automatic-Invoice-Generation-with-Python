@@ -1,0 +1,10 @@
+Olá $nome,
+
+Informamos que a fatura referente aos nossos serviços está gerada no valor de $valor, com vencimento em $vencimento.
+
+Caso deseje mais informações, entre em contato com a $empresa pelo telefone $telefone.
+
+Agradecemos pela confiança.
+
+Atenciosamente,
+Equipe $empresa
